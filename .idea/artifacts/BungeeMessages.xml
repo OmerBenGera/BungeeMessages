@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeMessages">
+    <output-path>D:/My Servers/BungeeCord/Bungee/plugins</output-path>
+    <root id="archive" name="BungeeMessages.jar">
+      <element id="module-output" name="BungeeMessages" />
+    </root>
+  </artifact>
+</component>

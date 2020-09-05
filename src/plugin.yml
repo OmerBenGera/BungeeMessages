@@ -1,0 +1,5 @@
+name: BungeeMessages
+version: 1.0.0
+main: com.ome_r.bungeemessages.Main
+author: [OmerBenGera]
+softdepend: [RedisBungee]

@@ -1,0 +1,5 @@
+groups:
+  StaffChat:
+    command: staffchat
+    permission: bungeemessages.staffchat
+    format: '&a&l(SC) &e{0}&8: &f{1}'
